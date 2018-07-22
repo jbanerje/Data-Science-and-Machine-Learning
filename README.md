@@ -31,5 +31,6 @@ Tools
     - [Turkiye Student Evaluation Data]
     - [Heights and Weights Data]
 
-If you enjoyed what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to contact me on:
+If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to contact me on:
     - [LinkedIn](https://www.linkedin.com/in/jagannath-banerjee/)
+    - [Email](jagannath.banerjee@gmail.com)
