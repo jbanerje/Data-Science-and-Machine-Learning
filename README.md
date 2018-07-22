@@ -12,7 +12,7 @@ If you want to have a chat with me about the portfolio, work opportunities, or c
 ### About the repository
 This is Jagannath Banerjee's repository containing portfolio of data science projects completed for academic, self learning, and professional purposes. Portfolio is presented in the form of Jupyter Notebooks.
 
-###Tools
+### Tools
   - **Python** : NumPy, Pandas, Seaborn, Matplotlib
   - **Machine Learning**: scikit-learn
 
