@@ -52,7 +52,7 @@ This is Jagannath Banerjee's repository containing portfolio of data science pro
     - [Support Vector Machine (SVM)]
     - [Decision Tree Regression]
     - [Random Forest Regression]
-    - [Logistic Regression]
+    - [Logistic Regression](https://github.com/jbanerje/Data-Science-and-Machine-Learning/blob/master/IPythonNotebook_Machine%20Learning%20Basic%20Model/Logistic_Regression.ipynb): Logistic regression technique to create predictive models for binary classification problems
     - [K Nearest Neighbors (KNN) Classification ]
     - [Naïve Bayes]
     - [Support Vector Machine (SVM)]
