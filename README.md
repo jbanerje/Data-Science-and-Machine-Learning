@@ -53,11 +53,11 @@ This is Jagannath Banerjee's repository containing portfolio of data science pro
     - [Decision Tree Regression]
     - [Random Forest Regression]
     - [Logistic Regression](https://github.com/jbanerje/Data-Science-and-Machine-Learning/blob/master/IPythonNotebook_Machine%20Learning%20Basic%20Model/Logistic_Regression.ipynb): Logistic regression technique to create predictive models for binary classification problems
-    - [K Nearest Neighbors (KNN) Classification ]
-    - [Naïve Bayes]
+    - [K Nearest Neighbors (KNN) Classification ](https://github.com/jbanerje/Data-Science-and-Machine-Learning/blob/master/IPythonNotebook_Machine%20Learning%20Basic%20Model/KNN_Classification.ipynb): K-nearest neighbors algorithm (k-NN) is a non-parametric method used for classification where the input consists of the k closest training examples in the feature space.
+    - [Naïve Bayes](https://github.com/jbanerje/Data-Science-and-Machine-Learning/blob/master/IPythonNotebook_Machine%20Learning%20Basic%20Model/Naive_Bayes.ipynb): Naive Bayes model is easy to build and particularly useful for very large data sets. Along with simplicity, Naive Bayes is known to outperform even highly sophisticated classification methods.
     - [Support Vector Machine (SVM)]
-    - [Decision Tree Classification]
-    - [Random Forest Classification]
+    - [Decision Tree Classification](https://github.com/jbanerje/Data-Science-and-Machine-Learning/blob/master/IPythonNotebook_Machine%20Learning%20Basic%20Model/Decision_Tree.ipynb): Decision Tree classiffier is a type of Supervised Machine Learning algorithm which organizes a series of test questions and conditions in a tree structure and the data is continuously split according to a certain parameter.
+    - [Random Forest Classification](https://github.com/jbanerje/Data-Science-and-Machine-Learning/blob/master/IPythonNotebook_Machine%20Learning%20Basic%20Model/Random_Forest.ipynb):Random forest classifcation is an ensemble learning method for classification that operate by constructing a multitude of decision trees at training time and outputting the class that is the mode of the classes (classification) of the individual trees. Random forests correct for decision trees habit of overfitting to their training set
     - [K Mean Clustering]
     - [Hierarchical Clustering]
 
