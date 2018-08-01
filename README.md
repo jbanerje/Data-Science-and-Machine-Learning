@@ -34,12 +34,12 @@ This is Jagannath Banerjee's repository containing portfolio of data science pro
 
 - ## Learning Projects
     - [Iris Data](https://github.com/jbanerje/Data-Science-and-Machine-Learning/blob/master/IPythonNotebook_Learning%20Projects/Iris_Classification.ipynb): Iris_Classification Datset
+    - [Wine Quality Data]
     - [Titanic Data]
     - [Loan Prediction Data ]
     - [Bigmart Sales Data]
     - [Boston Housing Data ]
     - [Time Series Analysis Data]
-    - [Wine Quality Data]
     - [Turkiye Student Evaluation Data]
     - [Heights and Weights Data]
 
