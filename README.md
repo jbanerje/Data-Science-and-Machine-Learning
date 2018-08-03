@@ -33,9 +33,9 @@ This is Jagannath Banerjee's repository containing portfolio of data science pro
     - [Twitter Classification]
 
 - ## Learning Projects
-    - [Iris Classification](https://github.com/jbanerje/Data-Science-and-Machine-Learning/blob/master/IPythonNotebook_Learning%20Projects/Iris_Classification.ipynb): Iris_Classification Dataset
-    - [Wine Quality Prediction](https://github.com/jbanerje/Data-Science-and-Machine-Learning/blob/master/IPythonNotebook_Learning%20Projects/UCI%20Wine%20Quality%20Assessment.ipynb):
+	- [Wine Quality Prediction](https://github.com/jbanerje/Data-Science-and-Machine-Learning/blob/master/IPythonNotebook_Learning%20Projects/UCI%20Wine%20Quality%20Assessment.ipynb):
 	Wine Quality Prediction
+    - [Iris Classification](https://github.com/jbanerje/Data-Science-and-Machine-Learning/blob/master/IPythonNotebook_Learning%20Projects/Iris_Classification.ipynb): Iris_Classification Dataset
     - [Titanic Data]
     - [Loan Prediction Data ]
     - [Bigmart Sales Data]
