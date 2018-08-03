@@ -1,5 +1,5 @@
 # Data Science and Machine Learning Portfolio
-
+![capture](https://user-images.githubusercontent.com/23444472/43589488-d5d2a9b4-963c-11e8-9838-514713f46dc7.JPG)
 ### About Me
 I create amazing stories and insights with data and transform complex data into highly-customized, actionable, and scalable solutions  and help clients make better data-driven decisions leading to bringing new business, understanding target market and customer segmentation, boosting customer loyalty and making client PCI compliant.
 
