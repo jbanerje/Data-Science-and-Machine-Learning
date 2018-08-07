@@ -1,0 +1,17 @@
+#Plotting histogram using matplotlib hist function
+f, axarr = plt.subplots(4, 3, figsize=(20,15))
+rows = 4 ; columns = 3
+column_list = [['fixed_acidity','volatile_acidity','citric_acid'],['residual_sugar','chlorides','free_sulfur_dioxide'],['total_sulfur_dioxide','density','pH'],['sulphates','alcohol','quality']]
+color_list = [['skyblue','olive','green'],['skyblue','olive','green'],['skyblue','olive','green'],['skyblue','olive','green']]
+
+for row in range(rows):
+    for column in range(columns):
+        axarr[row, column].hist(data_train[column_list[row][column]], range = (data_train[column_list[row][column]].min(), data_train[column_list[row][column]].max()), facecolor = color_list[row][column], alpha=0.75)
+        axarr[row, column].set_title(column_list[row][column])
+        plt.tight_layout()
+plt.show()
+
+#Another way of doing it is using seaborn
+#f, axes = plt.subplots(3, 4, figsize=(20, 15))
+#sns.distplot( data_train["fixed_acidity"] , kde=False, rug=True, color="skyblue", ax=axes[0, 0])
+#plt.show()
