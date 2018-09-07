@@ -18,10 +18,14 @@ This is Jagannath Banerjee's repository containing portfolio of data science pro
 
 ## Contents
 - ## Machine Learning
-    - [Wine Quality Prediction](https://github.com/jbanerje/Data-Science-and-Machine-Learning/blob/master/IPythonNotebook_Learning%20Projects/UCI%20Wine%20Quality%20Assessment.ipynb): Regression  - Predicting the quality of wine using 12 physiochemical properties.
     - [Telco Customer Churn Analysis](https://github.com/jbanerje/Data-Science-and-Machine-Learning/blob/master/IPythonNotebook_Learning%20Projects/Telco%20Customer%20Churn.ipynb): Classification - Analyze Telco customer data to understand reason for churn and who could be the next potential customer to leave the company and What contributes to the higher churn rate of customer and what could be some of the probable solution to address the same.
+
+    - [Wine Quality Prediction](https://github.com/jbanerje/Data-Science-and-Machine-Learning/blob/master/IPythonNotebook_Learning%20Projects/UCI%20Wine%20Quality%20Assessment.ipynb): Regression  - Predicting the quality of wine using 12 physiochemical properties.
+
     - [Iris Classification](https://github.com/jbanerje/Data-Science-and-Machine-Learning/blob/master/IPythonNotebook_Learning%20Projects/Iris_Classification.ipynb): Classification - Classifying iris setosa, iris versicolor and iris verginica using sepal & petal length and width.
 
 - ## Exploratory Data Analysis and Visualization (Using Python - Matplotlib & Seaborn)
     - [Honey_Production_Analysis
     In The USA (1998-2012)](https://github.com/jbanerje/Data-Science-and-Machine-Learning/blob/master/IPythonNotebook_Vizualization/Honey%20Production.ipynb): Question that were answered  - How has honey production yield changed from 1998 to 2012? Over time, which states produce the most honey? Which produce the least? Which have experienced the most change in honey yield? Does the data show any trends in terms of the number of honey producing colonies and yield per colony before 2006, which was when concern over Colony Collapse Disorder spread nationwide? Are there any patterns that can be observed between total honey production and value of production every year? How has value of production, which in some sense could be tied to demand, changed every year?
+
+If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at jagannath.banerjee@gmail.com
