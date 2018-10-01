@@ -6,7 +6,7 @@ I create amazing stories and insights with data and transform complex data into 
 I have experience in exploratory data analysis, machine learning, and statistics. I am passionate about learning new topics in data science, visualizing data and doing research. I love sharing valuable insights and making an impact that helps others learn through code, visualizations, and narratives.
 
 If you want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to contact me on:
-    - [Website](https://jagannathbanerjee.com) | [LinkedIn](https://www.linkedin.com/in/jagannath-banerjee/) | [Kaggle](https://www.kaggle.com/jbanerje) | [Stack Overflow](https://stackoverflow.com/users/7636734/jagannath-banerjee)| [Email](jagannath.banerjee@gmail.com)
+    - [Website](https://jagannathbanerjee.com) | [LinkedIn](https://www.linkedin.com/in/jagannath-banerjee/) | [Kaggle](https://www.kaggle.com/jbanerje) | [Stack Overflow](https://stackoverflow.com/users/7636734/jagannath-banerjee)| jagannath.banerjee@gmail.com
 
 ### About the repository
 This is Jagannath Banerjee's repository containing portfolio of data science projects completed for academic, self learning, and professional purposes. Portfolio is presented in the form of Jupyter Notebooks.
