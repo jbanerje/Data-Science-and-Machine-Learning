@@ -25,6 +25,10 @@ This is Jagannath Banerjee's repository containing portfolio of data science pro
     - [Iris Classification](https://github.com/jbanerje/Data-Science-and-Machine-Learning/blob/master/IPythonNotebook_Machine_Learning/Iris_Classification.ipynb): Classification - Predicting the Iris species - Iris Setosa, Iris Versicolor and Iris Verginica using Iris sepal length , sepal width , petal length and petal width.
 
 - ## Exploratory Data Analysis and Visualization
+    - [US Road Accidents
+    In The USA (1998-2012)](https://github.com/jbanerje/Data-Science-and-Machine-Learning/blob/master/IPythonNotebook_Vizualization/us-road-accidents-a-detailed-walk-through.ipynb): Question that were answered  - Source of Information, How Severe the accidents are, Which County, zip codes recorded maximum accidents , Major Contributors for Severe accidents, Which month/year had how much accidents and if there id a trend, Relationship of environmental factors contributing to the accident, Which time of the day has most accidents, Deep dive into bi-varite relationship of the columns with Severity.
+    Kaggle Kernel - https://www.kaggle.com/kernels/scriptcontent/27043935/download
+    
     - [Honey_Production_Analysis
     In The USA (1998-2012)](https://github.com/jbanerje/Data-Science-and-Machine-Learning/blob/master/IPythonNotebook_Vizualization/Honey%20Production.ipynb): Question that were answered  - How has honey production yield changed from 1998 to 2012? Over time, which states produce the most honey? Which produce the least? Which have experienced the most change in honey yield? Does the data show any trends in terms of the number of honey producing colonies and yield per colony before 2006, which was when concern over Colony Collapse Disorder spread nationwide? Are there any patterns that can be observed between total honey production and value of production every year? How has value of production, which in some sense could be tied to demand, changed every year?
 
