@@ -19,9 +19,12 @@ This is Jagannath Banerjee's repository containing portfolio of data science pro
 - ## Machine Learning
     - [Heart Disease UCI Prediction](https://github.com/jbanerje/Data-Science-and-Machine-Learning/blob/master/IPythonNotebook_Machine_Learning/Heart%20Disease.ipynb): Classification - Analyzing Heart Disease data to find the presence of heart disease and find out the most essential factor contributing to heart disease.
 
+    - [Breast Cancer Detection](https://github.com/jbanerje/Data-Science-and-Machine-Learning/blob/master/IPythonNotebook_Machine_Learning/Telco%20Customer%20Churn.ipynb): Classification - Predicting  bening vs malignant form of brest cancer.
+
     - [Telco Customer Churn Prediction](https://github.com/jbanerje/Data-Science-and-Machine-Learning/blob/master/IPythonNotebook_Machine_Learning/Telco%20Customer%20Churn.ipynb): Classification - Analyzing Telco customer data to understand reason for churn and who could be the next potential customer to leave the company and What contributes to the higher churn rate of customer and what could be some of the probable solution to address the same.
 
     - [Wine Quality Prediction](https://github.com/jbanerje/Data-Science-and-Machine-Learning/blob/master/IPythonNotebook_Machine_Learning/UCI%20Wine%20Quality%20Assessment.ipynb): Regression  - Predicting the quality of wine using 12 physiochemical properties. Detailed exploratory data analysis to confirm if there is any relationship between the chemical composition and the quality of white wine.
+
     - [Iris Classification](https://github.com/jbanerje/Data-Science-and-Machine-Learning/blob/master/IPythonNotebook_Machine_Learning/Iris_Classification.ipynb): Classification - Predicting the Iris species - Iris Setosa, Iris Versicolor and Iris Verginica using Iris sepal length , sepal width , petal length and petal width.
 
 - ## Exploratory Data Analysis and Visualization
