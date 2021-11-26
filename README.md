@@ -17,6 +17,8 @@ This is Jagannath Banerjee's repository containing portfolio of data science pro
 
 ## Contents
 - ## Machine Learning
+    - [Breast Cancer Prediction](https://github.com/jbanerje/Data-Science-and-Machine-Learning/blob/master/IPythonNotebook_Machine_Learning/Heart%20Disease.ipynb): Classification - Analyzing Heart Disease data to find the presence of heart disease and find out the most essential factor contributing to heart disease.
+
     - [Heart Disease UCI Prediction](https://github.com/jbanerje/Data-Science-and-Machine-Learning/blob/master/IPythonNotebook_Machine_Learning/Heart%20Disease.ipynb): Classification - Analyzing Heart Disease data to find the presence of heart disease and find out the most essential factor contributing to heart disease.
 
     - [Breast Cancer Detection](https://github.com/jbanerje/Data-Science-and-Machine-Learning/blob/master/IPythonNotebook_Machine_Learning/Breast_Cancer_Detection.ipynb): Classification - Predicting  bening vs malignant form of brest cancer.
@@ -26,6 +28,12 @@ This is Jagannath Banerjee's repository containing portfolio of data science pro
     - [Wine Quality Prediction](https://github.com/jbanerje/Data-Science-and-Machine-Learning/blob/master/IPythonNotebook_Machine_Learning/UCI%20Wine%20Quality%20Assessment.ipynb): Regression  - Predicting the quality of wine using 12 physiochemical properties. Detailed exploratory data analysis to confirm if there is any relationship between the chemical composition and the quality of white wine.
 
     - [Iris Classification](https://github.com/jbanerje/Data-Science-and-Machine-Learning/blob/master/IPythonNotebook_Machine_Learning/Iris_Classification.ipynb): Classification - Predicting the Iris species - Iris Setosa, Iris Versicolor and Iris Verginica using Iris sepal length , sepal width , petal length and petal width.
+
+- ## Machine Learning Deployments
+    - [Deployment of Flask Application with Docker](https://github.com/jbanerje/ml-deployment/tree/main/docker-flask-deployment):Sample Deployment of a Machine Learning Flask Application with Docker.
+    - [Deployment of Streamlit Application with Docker](https://github.com/jbanerje/ml-deployment/tree/main/docker-streamlit-deployment):Sample Deployment of a Machine Learning Streamlit Application with Docker.
+    - [Deployment of ML Application in Azure](https://github.com/jbanerje/azure_ml):Sample Deployment of a Machine Learning Application using Azure Machine Learning Service.
+    - [Deployment of ML Pipeline in Azure](TBD):Sample Deployment of a Machine Learning Pipeline in Azure.
 
 - ## Exploratory Data Analysis and Visualization
     - [US Road Accidents
