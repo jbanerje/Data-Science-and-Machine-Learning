@@ -17,11 +17,9 @@ This is Jagannath Banerjee's repository containing portfolio of data science pro
 
 ## Contents
 - ## Machine Learning
-    - [Breast Cancer Prediction](https://github.com/jbanerje/Data-Science-and-Machine-Learning/blob/master/IPythonNotebook_Machine_Learning/Heart%20Disease.ipynb): Classification - Analyzing Heart Disease data to find the presence of heart disease and find out the most essential factor contributing to heart disease.
+    - [Breast Cancer Prediction](https://github.com/jbanerje/Data-Science-and-Machine-Learning/blob/master/IPythonNotebook_Machine_Learning/Breast_Cancer_Detection.ipynb): Classification - Predicting  bening vs malignant form of brest cancer.
 
     - [Heart Disease UCI Prediction](https://github.com/jbanerje/Data-Science-and-Machine-Learning/blob/master/IPythonNotebook_Machine_Learning/Heart%20Disease.ipynb): Classification - Analyzing Heart Disease data to find the presence of heart disease and find out the most essential factor contributing to heart disease.
-
-    - [Breast Cancer Detection](https://github.com/jbanerje/Data-Science-and-Machine-Learning/blob/master/IPythonNotebook_Machine_Learning/Breast_Cancer_Detection.ipynb): Classification - Predicting  bening vs malignant form of brest cancer.
 
     - [Telco Customer Churn Prediction](https://github.com/jbanerje/Data-Science-and-Machine-Learning/blob/master/IPythonNotebook_Machine_Learning/Telco%20Customer%20Churn.ipynb): Classification - Analyzing Telco customer data to understand reason for churn and who could be the next potential customer to leave the company and What contributes to the higher churn rate of customer and what could be some of the probable solution to address the same.
 
